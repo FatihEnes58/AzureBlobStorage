@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.azureblobstoragespring.AzureBlobStorageSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.93 s - in com.example.azureblobstoragespring.AzureBlobStorageSpringApplicationTests
